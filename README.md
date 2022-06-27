@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55zm-9nUUIyXDAeyy-k8t2VffKjCLAKTRmPPWpPqruFsqxnpZRTLwdcMc3Rd9jh00jhs&usqp=CAU" /></p>
 ## 30 Day Vanilla JS Coding Challenge
 
-- [ ] JavaScript Drum Kit
+- [x] JavaScript Drum Kit
 - [ ] CSS + JS Clock
 - [ ] Playing with CSS Variables and JS
 - [ ] Array Cardio Day 1
