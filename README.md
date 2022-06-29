@@ -2,8 +2,8 @@
 ## 30 Day Vanilla JS Coding Challenge
 
 - [x] JavaScript Drum Kit
-- [ ] CSS + JS Clock
-- [ ] Playing with CSS Variables and JS
+- [x] CSS + JS Clock
+- [x] Playing with CSS Variables and JS
 - [ ] Array Cardio Day 1
 - [ ] Flex Panels Image Gallery
 - [ ] Ajax Type Ahead
