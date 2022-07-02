@@ -7,7 +7,7 @@
 - [x] Array Cardio Day 1
 - [x] Flex Panels Image Gallery
 - [x] Ajax Type Ahead
-- [ ] Array Cardio Day 2
+- [x] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
 - [ ] 14 Must Know Dev Tools Tricks
 - [ ] Hold Shift to Check Multiple Checkboxes
