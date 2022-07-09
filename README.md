@@ -14,7 +14,7 @@
 - [x] Custom HTML5 Video Player
 - [x] Key Sequence Detection (KONAMI CODE)
 - [x] Slide In on Scroll
-- [ ] Object and Arrays - Reference VS Copy
+- [x] Object and Arrays - Reference VS Copy
 - [ ] LocalStorage and Event Delegation
 - [ ] CSS Text Shadow Mouse Move Effect
 - [ ] Sorting Band Names without articles
