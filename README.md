@@ -19,7 +19,7 @@
 - [x] CSS Text Shadow Mouse Move Effect
 - [x] Sorting Band Names without articles
 - [x] Tally String Times with Reduce
-- [ ] Unreal Webcam Fun
+- [x] Unreal Webcam Fun
 - [ ] Native Speech Recognition
 - [ ] Geolocation based Speedometer and Compass
 - [ ] Follow Along Links
