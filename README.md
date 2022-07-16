@@ -20,7 +20,7 @@
 - [x] Sorting Band Names without articles
 - [x] Tally String Times with Reduce
 - [x] Unreal Webcam Fun
-- [ ] Native Speech Recognition
+- [x] Native Speech Recognition
 - [ ] Geolocation based Speedometer and Compass
 - [ ] Follow Along Links
 - [ ] Speech Synthesis
