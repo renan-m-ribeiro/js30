@@ -21,7 +21,7 @@
 - [x] Tally String Times with Reduce
 - [x] Unreal Webcam Fun
 - [x] Native Speech Recognition
-- [ ] Geolocation based Speedometer and Compass
+- [x] Geolocation based Speedometer and Compass
 - [ ] Follow Along Links
 - [ ] Speech Synthesis
 - [ ] Sticky Nav
