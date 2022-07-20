@@ -23,7 +23,7 @@
 - [x] Native Speech Recognition
 - [x] Geolocation based Speedometer and Compass
 - [x] Follow Along Links
-- [ ] Speech Synthesis
+- [x] Speech Synthesis
 - [ ] Sticky Nav
 - [ ] Event Capture, Propagation, Bubbling and Once
 - [ ] Stripe Follow Along Dropdown
