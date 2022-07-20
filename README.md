@@ -22,7 +22,7 @@
 - [x] Unreal Webcam Fun
 - [x] Native Speech Recognition
 - [x] Geolocation based Speedometer and Compass
-- [ ] Follow Along Links
+- [x] Follow Along Links
 - [ ] Speech Synthesis
 - [ ] Sticky Nav
 - [ ] Event Capture, Propagation, Bubbling and Once
