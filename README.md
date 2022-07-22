@@ -24,7 +24,7 @@
 - [x] Geolocation based Speedometer and Compass
 - [x] Follow Along Links
 - [x] Speech Synthesis
-- [ ] Sticky Nav
+- [x] Sticky Nav
 - [ ] Event Capture, Propagation, Bubbling and Once
 - [ ] Stripe Follow Along Dropdown
 - [ ] Click and Drag to Scroll
