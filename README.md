@@ -26,7 +26,7 @@
 - [x] Speech Synthesis
 - [x] Sticky Nav
 - [x] Event Capture, Propagation, Bubbling and Once
-- [ ] Stripe Follow Along Dropdown
+- [x] Stripe Follow Along Dropdown
 - [ ] Click and Drag to Scroll
 - [ ] Video Speed Controller UI
 - [ ] Countdown Clock
