@@ -27,7 +27,7 @@
 - [x] Sticky Nav
 - [x] Event Capture, Propagation, Bubbling and Once
 - [x] Stripe Follow Along Dropdown
-- [ ] Click and Drag to Scroll
+- [x] Click and Drag to Scroll
 - [ ] Video Speed Controller UI
 - [ ] Countdown Clock
 - [ ] Whack A Mole Game
