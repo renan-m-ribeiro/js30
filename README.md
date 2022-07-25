@@ -28,7 +28,7 @@
 - [x] Event Capture, Propagation, Bubbling and Once
 - [x] Stripe Follow Along Dropdown
 - [x] Click and Drag to Scroll
-- [ ] Video Speed Controller UI
+- [x] Video Speed Controller UI
 - [ ] Countdown Clock
 - [ ] Whack A Mole Game
 
