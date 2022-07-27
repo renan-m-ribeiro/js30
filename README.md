@@ -29,7 +29,7 @@
 - [x] Stripe Follow Along Dropdown
 - [x] Click and Drag to Scroll
 - [x] Video Speed Controller UI
-- [ ] Countdown Clock
+- [x] Countdown Clock
 - [ ] Whack A Mole Game
 
 source: https://javascript30.com/
