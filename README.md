@@ -30,6 +30,6 @@
 - [x] Click and Drag to Scroll
 - [x] Video Speed Controller UI
 - [x] Countdown Clock
-- [ ] Whack A Mole Game
+- [x] Whack A Mole Game
 
 source: https://javascript30.com/
